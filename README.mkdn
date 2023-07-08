@@ -6,7 +6,7 @@ Getting started
 
 To get started with Android/KuroDroid, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the KuroDroid trees, use a command like this:
 ```
 repo init -u https://github.com/KuroDroid/android.git -b lineage-20.0 --git-lfs
 ```
